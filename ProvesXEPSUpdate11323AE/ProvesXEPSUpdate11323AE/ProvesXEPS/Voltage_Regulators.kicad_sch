@@ -1,0 +1,34 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid be773695-270f-48b2-8709-96516699e1b4)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 127 25.4) (size 50.8 50.8) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3505eedf-d09d-419f-96f8-37bb18291107)
+    (property "Sheet name" "5V Voltage Regulator" (id 0) (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "5V_Voltage_Regulator.kicad_sch" (id 1) (at 127 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 50.8 25.4) (size 50.8 50.8) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9c057cab-88ba-4471-83f6-5c8d4d73e708)
+    (property "Sheet name" "3.3V Voltage Regulator" (id 0) (at 50.8 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "3.3V_Voltage Regulator.kicad_sch" (id 1) (at 50.8 76.7846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+)
